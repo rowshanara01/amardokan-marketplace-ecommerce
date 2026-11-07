@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ ব্যবহৃত টেকনোলজি (Tech Stack)
+#### 🛠️ ব্যবহৃত টেকনোলজি (Tech Stack)
 
 * **Frontend Framework**: React 18 with TypeScript
 * **Build Tool**: Vite 5
