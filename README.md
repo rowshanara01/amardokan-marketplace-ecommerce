@@ -33,7 +33,7 @@
   VITE_ADMIN_PASSWORD=your-secure-password
   ```
 
-#### 5. 🖼️ হিরো ব্যানার পরিবর্তন (Dynamic Banner Image Upload)
+#### 5. 🖼️ হিরো ব্যানার পরিবর্তন (Dynamic Banner Image Upload) ####
 * হোম পেজের হিরো ব্যানার থেকে **"ছবি চেঞ্জ"** বাটনে ক্লিক করে সরাসরি যেকোনো কাস্টম ব্যানার ইমেজ আপলোড ও স্থানীয়ভাবে সংরক্ষণ করা যায়।
 
 ### 6. 🧾 ইনভয়েস ও মেমো প্রিন্ট (Invoice & Printable Receipt)
