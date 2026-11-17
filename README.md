@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Key Features
+#### 🌟  Features ####
 
 ### 1. 🛍️ Authentic Local Products
 - **100-count Dhakai Jamdani sarees**: GI-certified sarees hand-woven by the weavers of Rupganj.
