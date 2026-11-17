@@ -1,4 +1,4 @@
-# 🛍️ AmarDokan (AmarDokan AI) — Bangladeshi E-Commerce Marketplace
+# 🛍️ AmarDokan (AmarDokan AI) — Bangladeshi E-Commerce Marketplace  #
 
 **AmarDokan** is a modern, AI-powered Bangladeshi e-commerce marketplace. It delivers traditional local products straight from weavers and artisans to customers, such as 100-count Dhakai Jamdani from Rupganj in Narayanganj, Rajshahi silk, pure honey from the Sundarbans, Nakshi Kantha, and leather goods from Hazaribagh.
 
