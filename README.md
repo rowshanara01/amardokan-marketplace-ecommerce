@@ -71,7 +71,7 @@ npm install
 ```bash
 npm run dev
 ```
-অ্যাপটি ব্রাউজারে `http://localhost:3000` এ চালিত হবে।
+অ্
 
 ৪. প্রোডাকশন বিল্ড তৈরি করতে:
 ```bash
