@@ -1,94 +1,95 @@
-#### 🛍️ আমারদোকান (AmarDokan AI) — Bangladeshi E-Commerce Marketplace ####
+# 🛍️ AmarDokan (AmarDokan AI) — Bangladeshi E-Commerce Marketplace
 
-**আমারদোকান (AmarDokan)** হলো একটি আধুনিক, এআই-পাওয়ারড বাংলাদেশি ই-কমার্স মার্কেটপ্লেস। এখানে দেশীয় ঐতিহ্যবাহী পণ্যসমূহ (যেমন: নারায়ণগঞ্জের রূপগঞ্জের ১০০ কাউন্ট ঢাকাই জামদানি, রাজশাহীর সিল্ক, সুন্দরবনের চাকের খাঁটি মধু, নকশী কাঁথা ও হাজারীবাগের লেদার গুডস) সরাসরি তাঁতি ও কারিগরদের থেকে গ্রাহকদের কাছে পৌছে দেওয়া হয়।
+**AmarDokan** is a modern, AI-powered Bangladeshi e-commerce marketplace. It delivers traditional local products straight from weavers and artisans to customers, such as 100-count Dhakai Jamdani from Rupganj in Narayanganj, Rajshahi silk, pure honey from the Sundarbans, Nakshi Kantha, and leather goods from Hazaribagh.
 
 ---
 
-#### 🌟 প্রধান বৈশিষ্ট্যসমূহ (Key Features)  ####
+## 🌟 Key Features
 
-#### 1. 🛍️ আসল ও ঐতিহ্যবাহী দেশি পণ্য (Authentic Local Products) ####
-* **১০০ কাউন্ট ঢাকাই জামদানি শাড়ি**: রূপগঞ্জের তাঁতিদের হাতে বোনা জিআই সার্টিফাইড শাড়ি।
-* **রাজশাহী সিল্ক ও কটন পাঞ্জাবি**: ঈদ ও উৎসবের প্রিমিয়াম প্যানাল পাঞ্জাবি কালেকশন।
-* **সুন্দরবনের খাঁটি মধু ও চা**: মোয়ালদের সংগৃহীত ১০০% অর্গানিক পদ্মমধু ও শ্রীমঙ্গলের অর্থোডক্স ব্ল্যাক টি।
-* **হস্তশিল্প ও চামড়ার সামগ্রী**: যশোরের নকশী কাঁথা এবং হাজারীবাগের খাঁটি লেদার ওয়ালেট।
+### 1. 🛍️ Authentic Local Products
+- **100-count Dhakai Jamdani sarees**: GI-certified sarees hand-woven by the weavers of Rupganj.
+- **Rajshahi silk and cotton panjabis**: A premium panjabi collection for Eid and festivals.
+- **Pure Sundarbans honey and tea**: 100% organic lotus honey collected by honey gatherers (mowals), and orthodox black tea from Sreemangal.
+- **Handicrafts and leather goods**: Nakshi Kantha from Jessore and genuine leather wallets from Hazaribagh.
 
-#### 2. 🤖 এআই ভেরিফাইড কোয়ালিটি ও স্মার্ট সার্চ (AI Quality Verification & Search) ####
-* **এআই ভেরিফাইড ব্যাজ**: প্রতিটি পণ্যের অরিজিনালিটি ও কোয়ালিটি এআই দ্বারা পরীক্ষিত।
-* **ভিজ্যুয়াল ও ভয়েস সার্চ**: ছবির মাধ্যমে পণ্য খুঁজে বের করার এআই ব্যবস্থা।
-* **এআই শপিং অ্যাসিস্ট্যান্ট**: কেনাকাটায় সাহায্যের জন্য সার্বক্ষণিক এআই চ্যাটবট।
+### 2. 🤖 AI Quality Verification and Smart Search
+- **AI Verified badge**: The originality and quality of every product is checked by AI.
+- **Visual and voice search**: Find products by uploading a photo or using your voice.
+- **AI shopping assistant**: A 24/7 AI chatbot to help you while shopping.
 
-#### 3. 👑 এডমিন কন্ট্রোল প্যানেল ও কার্ড ম্যানেজমেন্ট (Admin Panel & Card Management)  ####
-* **প্রোডাক্ট যোগ ও ডিলিট**: এডমিন প্যানেল থেকে নতুন পণ্য যোগ বা যেকোনো কার্ড ডিলিট করা যায়।
-* **হোম পেজ কার্ড ডিলিট অপশন**: প্রোডাক্টের ওপর মাউস হভার করলে সরাসরি কার্ড ডিলিট করার সুবিধা রয়েছে।
-* **অর্ডার লিস্ট ও ইনভয়েস ট্র্যাকিং**: গ্রাহকদের সকল অর্ডার ও ডেলিভারি তথ্য দেখার সুবিধা।
+### 3. 👑 Admin Control Panel and Card Management
+- **Add and delete products**: Add new products or delete any product card from the admin panel.
+- **Delete from the home page**: Hover over a product to delete its card directly.
+- **Order list and invoice tracking**: View all customer orders and delivery details.
 
-#### 4. 🔐 এডমিন ক্রেডেনশিয়াল ও ভার্সেল কনফিগারেশন (Admin Credentials & Vercel) ####
-* **ডিফল্ট লগইন তথ্য**:
-  * **ইমেইল**: `admin@amardokan.com`
-  * **পাসওয়ার্ড**: `admin123`
-* **Vercel / Cloud Deployment**:
-  ভার্সেলে (Vercel) কাস্টম এডমিন ইমেইল ও পাসওয়ার্ড দেওয়ার জন্য **Environment Variables** সেট করুন:
+### 4. 🔐 Admin Credentials and Vercel Configuration
+- **Default login**:
+  - **Email**: `admin@amardokan.com`
+  - **Password**: `admin123`
+- **Vercel / Cloud deployment**:
+  To set a custom admin email and password on Vercel, add these **Environment Variables**:
   ```env
   VITE_ADMIN_EMAIL=your-custom-email@gmail.com
   VITE_ADMIN_PASSWORD=your-secure-password
   ```
 
-#### 5. 🖼️ হিরো ব্যানার পরিবর্তন (Dynamic Banner Image Upload) ####
-* হোম পেজের হিরো ব্যানার থেকে **"ছবি চেঞ্জ"** বাটনে ক্লিক করে সরাসরি যেকোনো কাস্টম ব্যানার ইমেজ আপলোড ও স্থানীয়ভাবে সংরক্ষণ করা যায়।
+> ⚠️ **Security note:** Change the default credentials before going live. Also keep in mind that `VITE_`-prefixed variables are bundled into the frontend code, so they are visible to anyone. For real production use, authenticate through a backend.
 
-#### 6. 🧾 ইনভয়েস ও মেমো প্রিন্ট (Invoice & Printable Receipt)####
-* চেকআউট শেষ হওয়ার সাথে সাথে অটোমেটিক ইনভয়েস তৈরি হয়, যা পিডিএফ ডাউনলোড বা সরাসরি প্রিন্ট করা যায়।
+### 5. 🖼️ Dynamic Hero Banner
+- Click the **"Change Image"** button on the home page hero banner to upload any custom banner image and store it locally.
 
-#### 7. 🌐 দ্বিভাষিক সাপোর্ট (Bengali & English Toggle)####
-* ১-ক্লিকে বাংলা ও ইংরেজি ভাষার মধ্যে স্যুইচ করার ব্যবস্থা।
+### 6. 🧾 Invoice and Printable Receipt
+- An invoice is generated automatically right after checkout. You can download it as a PDF or print it directly.
 
----
-
-#### 🛠️ ব্যবহৃত টেকনোলজি (Tech Stack) ####
-
-* **Frontend Framework**: React 18 with TypeScript
-* **Build Tool**: Vite 5
-* **Styling**: Tailwind CSS
-* **Icons**: Lucide React
-* **Deployment**: Vercel / Cloud Run / GitHub Pages
+### 7. 🌐 Bilingual Support (Bengali and English)
+- Switch between Bengali and English with a single click.
 
 ---
 
-#### 🚀 লোকাল মেশিনে রান করার নিয়ম (Local Setup) ####
+## 🛠️ Tech Stack
 
-১. প্রজেক্ট ফাইল ডাউনলোড/ক্লোন করুন:
-```bash
-git clone https://github.com/your-username/amardokan-ai.git
-cd amardokan-ai
-```
-
-২. ডিপেনডেন্সি ইনস্টল করুন:
-```bash
-npm install
-```
-
-৩. ডেভেলপমেন্ট সার্ভার চালু করুন:
-```bash
-npm run dev
-```
-অ্
-
-৪. প্রোডাকশন বিল্ড তৈরি করতে:
-```bash
-npm run build
-```
+- **Frontend framework**: React 18 with TypeScript
+- **Build tool**: Vite 5
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **Deployment**: Vercel / Cloud Run / GitHub Pages
 
 ---
 
-## 🌐 Vercel এ ডেপ্লয় করার নির্দেশিকা (Vercel Deployment Guide)
+## 🚀 Local Setup
 
-1. [Vercel](https://vercel.com) এ লগইন করে **Import Repository** এ ক্লিক করুন।
-2. Framework Preset হিসেবে **Vite** সিলেক্ট করুন।
-3. **Environment Variables** অপশনে নিচের কি (Keys) দুটি যুক্ত করুন:
-   - `VITE_ADMIN_EMAIL`: আপনার পছন্দের এডমিন ইমেইল
-   - `VITE_ADMIN_PASSWORD`: আপনার এডমিন পাসওয়ার্ড
-4. **Deploy** বাটনে ক্লিক করুন। ২ মিনিটের মধ্যে আপনার অ্যাপ লাইভ হয়ে যাবে!
+1. Download or clone the project:
+   ```bash
+   git clone https://github.com/your-username/amardokan-ai.git
+   cd amardokan-ai
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Create a production build:
+   ```bash
+   npm run build
+   ```
 
 ---
 
-© ২০২৬ **আমারদোকান (AmarDokan AI)** — Crafted with ❤️ for Bangladeshi Heritage.
+## 🌐 Vercel Deployment Guide
+
+1. Log in to [Vercel](https://vercel.com) and click **Import Repository**.
+2. Select **Vite** as the Framework Preset.
+3. Under **Environment Variables**, add these two keys:
+   - `VITE_ADMIN_EMAIL`: your preferred admin email
+   - `VITE_ADMIN_PASSWORD`: your admin password
+4. Click **Deploy**. Your app will be live in about 2 minutes!
+
+---
+
+© 2026 **AmarDokan (AmarDokan AI)** — Crafted with ❤️ for Bangladeshi Heritage.
