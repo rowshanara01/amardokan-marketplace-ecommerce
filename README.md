@@ -12,7 +12,7 @@
 - **Pure Sundarbans honey and tea**: 100% organic lotus honey collected by honey gatherers (mowals), and orthodox black tea from Sreemangal.
 - **Handicrafts and leather goods**: Nakshi Kantha from Jessore and genuine leather wallets from Hazaribagh.
 
-### 2. 🤖 AI Quality Verification and Smart Search
+#### 2. 🤖 AI Quality Verification and Smart Search  ####
 - **AI Verified badge**: The originality and quality of every product is checked by AI.
 - **Visual and voice search**: Find products by uploading a photo or using your voice.
 - **AI shopping assistant**: A 24/7 AI chatbot to help you while shopping.
